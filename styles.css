@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(#a2d2ff, #3500f5);
     color: #ffffff;
 }
 
@@ -48,13 +48,11 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-#gift-img-cheers {
-    height: 200px;
-}
+
 
 .gift-img {
     margin: 20px auto;
-    max-width: 400px;
+    max-width: 600px;
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
